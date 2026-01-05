@@ -8,13 +8,10 @@ repos/
 dist/
 
 # Environment
-.env
-.env.local
 .env.*.local
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -44,3 +41,4 @@ notes/
 
 # Agent skills (personal)
 .agent/
+config.bat
