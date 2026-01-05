@@ -8,8 +8,6 @@ repos/
 dist/
 
 # Environment
-.env
-.env.local
 .env.*.local
 
 # IDE
@@ -44,3 +42,4 @@ notes/
 
 # Agent skills (personal)
 .agent/
+config.bat
